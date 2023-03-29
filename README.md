@@ -5,6 +5,8 @@
 ## Ted Peterson, Jay Yoon, Woonggyu Jin
 
 This project implements a cellular automata simulator.
+Note that the repository was cloned directly from my school's private Gitlab repository, so commit histories (including my teammates') aren't here.
+
 
 ### Timeline
 
