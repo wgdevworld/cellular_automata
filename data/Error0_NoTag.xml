@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<simulation type="conway">
+  <initialState>
+    <id>0001</id>
+    <author>Jay Yoon, Ted Peterson, Wooggyu Jin</author>
+    <description>Short Description of Simulation</description>
+    <height>100</height>
+    <layout>conway01.txt</layout>
+    <probability>100</probability>
+    <cellShape>standard</cellShape>
+  </initialState>
+  <cellType>
+    <id>0</id>
+    <color>#000000</color>
+  </cellType>
+  <cellType>
+    <id>1</id>
+    <color>#fff000</color>
+  </cellType>
+</simulation>

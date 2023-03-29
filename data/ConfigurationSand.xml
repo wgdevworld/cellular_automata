@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<simulation type="sand">
+  <initialState>
+    <id>0006</id>
+    <author>Jay Yoon, Ted Peterson, Wooggyu Jin</author>
+    <description>Short Description of Simulation</description>
+    <width>10</width>
+    <height>10</height>
+    <layout>sand04.txt</layout>
+    <probability>70</probability>
+    <cellShape>standard</cellShape>
+  </initialState>
+  <cellType>
+    <id>0</id>
+    <color>#000000</color>
+  </cellType>
+  <cellType>
+    <id>1</id>
+    <color>#808080</color>
+  </cellType>
+  <cellType>
+    <id>2</id>
+    <color>#FFFF00</color>
+  </cellType>
+  <cellType>
+    <id>3</id>
+    <color>#00FFFF</color>
+  </cellType>
+</simulation>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<simulation type="foraging ants">
+  <initialState>
+    <id>0008</id>
+    <author>Jay Yoon, Ted Peterson, Wooggyu Jin</author>
+    <description>Short Description of Simulation</description>
+    <width>50</width>
+    <height>40</height>
+    <layout>ant01.txt</layout>
+    <probability>70</probability>
+    <cellShape>standard</cellShape>
+  </initialState>
+  <cellType>
+    <id>0</id>
+    <color>#000000</color>
+  </cellType>
+  <cellType>
+    <id>1</id>
+    <color>#c44116</color>
+  </cellType>
+  <cellType>
+    <id>2</id>
+    <color>#753819</color>
+  </cellType>
+  <cellType>
+    <id>3</id>
+    <color>#635d5a</color>
+  </cellType>
+</simulation>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<simulation type="fire">
+    <initialState>
+        <id>0002</id>
+        <author>Jay Yoon, Ted Peterson, Wooggyu Jin</author>
+        <description>Short Description of Simulation</description>
+        <width>50</width>
+        <height>50</height>
+        <layout>fire02.txt</layout>
+        <probability>70</probability>
+        <cellShape>standard</cellShape>
+    </initialState>
+    <cellType>
+        <id>0</id>
+        <color>#ffffff</color>
+    </cellType>
+    <cellType>
+        <id>1</id>
+        <color>#8B4513</color>
+    </cellType>
+    <cellType>
+        <id>2</id>
+        <color>#ff0000</color>
+    </cellType>
+</simulation>

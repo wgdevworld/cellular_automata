@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<simulation type="segregation">
+    <initialState>
+        <id>0003</id>
+        <author>Jay Yoon, Ted Peterson, Wooggyu Jin</author>
+        <description>Short Description of Simulation</description>
+        <width>10</width>
+        <height>10</height>
+        <layout>seg01.txt</layout>
+        <probability>70</probability>
+        <cellShape>standard</cellShape>
+    </initialState>
+    <cellType>
+        <id>0</id>
+        <color>#000000</color>
+    </cellType>
+    <cellType>
+        <id>1</id>
+        <color>#0D4DF6</color>
+    </cellType>
+    <cellType>
+        <id>2</id>
+        <color>#ff0000</color>
+    </cellType>
+</simulation>
